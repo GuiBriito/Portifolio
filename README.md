@@ -46,28 +46,28 @@ Git/GitHub.
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Geração do Modelo Lógico (MySql WorkBench/BRModelo)** | Criação de um Modelo Lógico de Tabelas, com a aplicação de regras de integridade e as melhores práticas, incluindo o tratamento de dados sensíveis da LGPD. | [Ver Projeto](https://docs.google.com/document/d/1QLp6PwxpgmtZu7ERJTR3LQSGjHeRgVYl0GdH7DEOUXI/edit?usp=sharing) |
+| **Geração do Modelo Lógico (MySql WorkBench/BRModelo)** | Criação de um Modelo Lógico de Tabelas, com a aplicação de regras de integridade e as melhores práticas, incluindo o tratamento de dados sensíveis da LGPD. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Postgre_Sistema_de_gest%C3%A3o_Financeira) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia Reversa** | Projeto de Engenharia Reversa utilizando o site Qr Code Styling como base através do Google IA.Studio  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Inteligencia_Artificial/Projeto_Clone_QR_Styling) |
-| **QR Cold** | Projeto de melhoria e desenvolvimento do app utilizado no projeto de Engenharia Reversa. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Inteligencia_Artificial/Projeto_Qr_Cold) |
-| **Mentoria Dev** | App para mentorias P2P para devs.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Inteligencia_Artificial/Projeto_Mentoria_Dev) |
+| **Engenharia Reversa** | Projeto de Engenharia Reversa utilizando o site Qr Code Styling como base através do Google IA.Studio  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Clone_QR_Styling) |
+| **QR Cold** | Projeto de melhoria e desenvolvimento do app utilizado no projeto de Engenharia Reversa. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Qr_Cold) |
+| **Mentoria Dev** | App para mentorias P2P para devs.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Mentoria_Dev) |
 
 #### 👨‍🎨 Desenvolvimento Wed
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto Devroute** | Projeto de Desenvolvimento Web focado em UX/UI onde criei um site de venda de cursos e trilhas de aprendizagem para iniciantes no mundo da TI.  | [Ver Projeto](https://thuuuur.github.io/Projeto-Onlyfronts/) |
+| **Projeto Devroute** | Projeto de Desenvolvimento Web focado em UX/UI onde criei um site de venda de cursos e trilhas de aprendizagem para iniciantes no mundo da TI.  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto-DevRoute) |
 
 
 #### 🧮 Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto para armazenagem de dados** | Projeto de Programção em C focado na armazenagem de dados sobre um "estoque" com a possibilidade de exportação em CSV  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Programacao_de_Computadores/Projeto_Estoque_em_C) |
-| **Projeto Regra do Trapézio** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra do Trapézio | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Programacao_de_Computadores/Projeto_Regra_do_Trapezio) |
-| **Projeto Regra de Simpson** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra de Simpson | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Programacao_de_Computadores/Projeto_Regra_de_Simpson) |
-| **Sistema de cálculo de Investimento com juros compostos** | Projeto de Programação em Python para gerar um sistema de cálculo de Investimento com juros compostos utilizando a Regra de Simpson e do Trapézio como alternativas para realizar a previsão de retorno| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Programacao_de_Computadores/Projeto_Sistema_de_Calculo_de_Investumento) |
+| **Projeto para armazenagem de dados** | Projeto de Programção em C focado na armazenagem de dados sobre um "estoque" com a possibilidade de exportação em CSV  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Estoque_em_C) |
+| **Projeto Regra do Trapézio** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra do Trapézio | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Regra_do_Trapezio) |
+| **Projeto Regra de Simpson** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra de Simpson | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Regra_de_Simpson) |
+| **Sistema de cálculo de Investimento com juros compostos** | Projeto de Programação em Python para gerar um sistema de cálculo de Investimento com juros compostos utilizando a Regra de Simpson e do Trapézio como alternativas para realizar a previsão de retorno| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Sistema_de_Calculo_de_Investumento) |
 
 ---
  
