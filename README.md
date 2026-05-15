@@ -53,8 +53,8 @@ Git/GitHub.
 | :--- | :--- | :---: |
 | **SM4 - Engenharia Reversa** | Projeto de Engenharia Reversa utilizando o site Qr Code Styling como base através do Google IA.Studio  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Clone_QR_Styling) |
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Projeto de melhoria e desenvolvimento do app utilizado no projeto de Engenharia Reversa. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Qr_Cold) |
-| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi ** | App para mentorias P2P para devs.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Mentoria_Dev) |
-| **SM8 - Composição Musical Assistida por Inteligência Artificial  ** | Desenvolvimento de Músicas com foco em letras do Racionais Mc's utilizando a SUNO IA e o Gems do GEMINI. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_SUNO_musicas_com_IA) |
+| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | App para mentorias P2P para devs.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Mentoria_Dev) |
+| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Desenvolvimento de Músicas com foco em letras do Racionais Mc's utilizando a SUNO IA e o Gems do GEMINI. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_SUNO_musicas_com_IA) |
 
 #### 👨‍🎨 Desenvolvimento Wed
 | Projeto | Descrição | Link |
