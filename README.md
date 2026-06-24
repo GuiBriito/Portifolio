@@ -3,7 +3,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/joão-guilherme-da-silva-brito-b5433a385)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-guilherme-da-silva-brito-b5433a385)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgui235689@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1pacFdbqW3As9PRxqHuPe5jVxIXeJ23uyNp-QtL7zgFI/edit?usp=sharing)
  
@@ -12,7 +12,7 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em: Análise de Dados e Cybersegurança.
  
-* **Habilidades Técnicas:** C, CSS, Python, HTML, JavaScript, Modelagem de Dados, BPM, BPMN, Bizagi Modeler, Git, Pacote Office, Manipulação de Arquivos CSV, Lógica de Programação, UX/UI Básico, PostegreSQL.
+* **Habilidades Técnicas:** C, CSS, Python, HTML, JavaScript, Modelagem de Dados, BPM, BPMN, Bizagi Modeler, Git, Pacote Office, Lógica de Programação, UX/UI Básico, PostegreSQL.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** <br>Desenvolvi um software funcional para armazenamento e busca de dados (Categoria, Nome, Serial  Number). Implementação de algoritmos de busca e exportação de dados para formato CSV.<br><br>Criação de um site focado em trilhas de aprendizado para novos estudantes de tecnologia. Desenvolvimento de interface responsiva e organização de fluxo de conteúdo (UX/UI básico). Trabalho realizado em equipe utilizando GIT e GITHUB.<br><br>Desenvolvimento de um sistema de backend para simulação de ativos financeiros com taxas variáveis. Aplicação de métodos de cálculo numérico (Regras de Simpson e Trapézio) e tratamento robusto de erros para garantir a integridade dos dados de entrada. Organização de código modularizado e controle de versionamento via 
 Git/GitHub.
@@ -23,7 +23,6 @@ Git/GitHub.
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,27 +33,16 @@ Git/GitHub.
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
- ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ---
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Geração do Modelo Lógico (MySql WorkBench/BRModelo)** | Criação de um Modelo Lógico de Tabelas, com a aplicação de regras de integridade e as melhores práticas, incluindo o tratamento de dados sensíveis da LGPD. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Postgre_Sistema_de_gest%C3%A3o_Financeira) |
- 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM4 - Engenharia Reversa** | Projeto de Engenharia Reversa utilizando o site Qr Code Styling como base através do Google IA.Studio  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Clone_QR_Styling) |
-| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Projeto de melhoria e desenvolvimento do app utilizado no projeto de Engenharia Reversa. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Qr_Cold) |
-| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | App para mentorias P2P para devs.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Mentoria_Dev) |
-| **SM8 - Composição Musical Assistida por Inteligência Artificial** | Desenvolvimento de Músicas com foco em letras do Racionais Mc's utilizando a SUNO IA e o Gems do GEMINI. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_SUNO_musicas_com_IA) |
+| **Engenharia Reversa** | Projeto de Engenharia Reversa utilizando o site Qr Code Styling como base através do Google IA.Studio  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Clone_QR_Styling) |
+| **Do Clone ao Produto Mínimo Viável** | Projeto de melhoria e desenvolvimento do app utilizado no projeto de Engenharia Reversa. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Qr_Cold) |
+| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | App para mentorias P2P para devs.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Mentoria_Dev) |
 
 #### 👨‍🎨 Desenvolvimento Wed
 | Projeto | Descrição | Link |
@@ -65,10 +53,10 @@ Git/GitHub.
 #### 🧮 Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto para armazenagem de dados** | Projeto de Programção em C focado na armazenagem de dados sobre um "estoque" com a possibilidade de exportação em CSV  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Estoque_em_C) |
+| **Projeto para armazenagem de dados** | Projeto de Programção em C focado na armazenagem de dados sobre um "estoque" com a possibilidade de exportação em CSV.  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Estoque_em_C) |
 | **Projeto Regra do Trapézio** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra do Trapézio | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Regra_do_Trapezio) |
-| **Projeto Regra de Simpson** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra de Simpson | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Regra_de_Simpson) |
-| **Sistema de cálculo de Investimento com juros compostos** | Projeto de Programação em Python para gerar um sistema de cálculo de Investimento com juros compostos utilizando a Regra de Simpson e do Trapézio como alternativas para realizar a previsão de retorno| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Sistema_de_Calculo_de_Investumento) |
+| **Projeto Regra de Simpson** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra de Simpson. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Regra_de_Simpson) |
+| **Sistema de cálculo de Investimento com juros compostos** | Projeto de Programação em Python para gerar um sistema de cálculo de Investimento com juros compostos utilizando a Regra de Simpson e do Trapézio como alternativas para realizar a previsão de retorno.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Sistema_de_Calculo_de_Investumento) |
 
 ---
  
