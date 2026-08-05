@@ -36,19 +36,6 @@ Git/GitHub.
 ---
  
 ### 📂 Portfólio de Projetos
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Engenharia Reversa** | Projeto de Engenharia Reversa utilizando o site Qr Code Styling como base através do Google IA.Studio  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Clone_QR_Styling) |
-| **Do Clone ao Produto Mínimo Viável** | Projeto de melhoria e desenvolvimento do app utilizado no projeto de Engenharia Reversa. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Qr_Cold) |
-| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | App para mentorias P2P para devs.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Mentoria_Dev) |
-
-#### 👨‍🎨 Desenvolvimento Wed
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Projeto Devroute** | Projeto de Desenvolvimento Web focado em UX/UI onde criei um site de venda de cursos e trilhas de aprendizagem para iniciantes no mundo da TI.  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto-DevRoute) |
-
 
 #### 🧮 Programação de computadores
 | Projeto | Descrição | Link |
