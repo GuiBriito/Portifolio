@@ -30,8 +30,6 @@ Git/GitHub.
 ![BPMN](https://img.shields.io/badge/BPMN-Business%20Process-00aae4?style=for-the-badge)
 ![Bizagi](https://img.shields.io/badge/Bizagi%20Modeler-00529B?style=for-the-badge&logo=bizagi&logoColor=white)
  
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  
 ---
  
@@ -41,14 +39,9 @@ Git/GitHub.
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeto para armazenagem de dados** | Projeto de Programção em C focado na armazenagem de dados sobre um "estoque" com a possibilidade de exportação em CSV.  | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Estoque_em_C) |
-| **Projeto Regra do Trapézio** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra do Trapézio | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Regra_do_Trapezio) |
-| **Projeto Regra de Simpson** | Projeto de Programação em Python para gerar um sistema de cálculo de integral através da Regra de Simpson. | [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Regra_de_Simpson) |
-| **Sistema de cálculo de Investimento com juros compostos** | Projeto de Programação em Python para gerar um sistema de cálculo de Investimento com juros compostos utilizando a Regra de Simpson e do Trapézio como alternativas para realizar a previsão de retorno.| [Ver Projeto](https://github.com/GuiBriito/portfolio-joao-guilherme-da-silva-brito/tree/master/Projeto_Sistema_de_Calculo_de_Investumento) |
+| **Calculadora de Investimento** | Projeto de Programação em Python para gerar um sistema de cálculo de Investimento com juros compostos utilizando a Regra de Simpson e do Trapézio como alternativas para realizar a previsão de retorno.| [Ver Projeto](https://github.com/GuiBriito/Calculadora-de-Investimentos) |
 
----
- 
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+#### 🧮 Desenvolvimento Front-End
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Devroute** | Projeto de Desenvolvimento Web focado em UX/UI onde criei um site de venda de cursos e trilhas de aprendizagem para iniciantes no mundo da TI.  | [Ver Projeto](https://github.com/GuiBriito/DevRoute) |
